@@ -4,3 +4,4 @@ Just checking how this works.
 ### Heading level 3
 #### Heading level 4
 Normal content
+*Bold normal*
